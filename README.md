@@ -1,2 +1,2 @@
 # Python-Projects
-simples python projects GUI by tkinter library
+simples python GUI projects  by tkinter library
